@@ -1,2 +1,2 @@
-# weather_API
-I developed this project using react Js
+# WeatherApi
+# Search for Weather of a location in real time.
